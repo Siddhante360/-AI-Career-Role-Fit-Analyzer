@@ -1,8 +1,8 @@
-# 🚀 AI Career Role Fit Analyzer
+# AI Career Role Fit Analyzer
 
 An AI-powered resume evaluation system that predicts compatibility across 30+ technical job roles using NLP and semantic similarity.
 
-## 🔥 Features
+## Features
 
 - PDF Resume Parsing (PyMuPDF)
 - Semantic Similarity using SentenceTransformer
@@ -12,7 +12,7 @@ An AI-powered resume evaluation system that predicts compatibility across 30+ te
 - Skill Gap Analysis
 - Streamlit Interactive Dashboard
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - Python
 - Sentence Transformers
@@ -21,7 +21,7 @@ An AI-powered resume evaluation system that predicts compatibility across 30+ te
 - PyMuPDF
 - Streamlit
 
-## 📊 Scoring Formula
+## Scoring Formula
 
 Final Score =  
 0.5 × Semantic Similarity  
